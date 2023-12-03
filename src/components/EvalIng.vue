@@ -69,6 +69,7 @@ onMounted(() => {
 <template>
  <div class="flex flex-col items-center justify-center sm:flex-row gap-y-3 px-4 sm:px-10 fond">
     <div class="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 flex flex-col gap-y-3 fond">
+      <h1 class="text-center text-xl font-bold ">Estados de evaluación por ingeníeria</h1>
       <!-- IE -->
       <div class="w-full flex flex-col gap-y-2 border-4 rounded border-black px-2 py-1 shadow-lg bg-[#AF601A]">
         <h1 class="text-center text-xl font-bold ">Ingeniería Electrónica</h1>
